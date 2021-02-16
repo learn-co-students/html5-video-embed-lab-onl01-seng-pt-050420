@@ -1,6 +1,6 @@
 # HTML5 Video Embed Code-Along
 
-
+ 
 ## Problem Statement
 
 Adding images to HTML content is a great way to make websites more appealing and
